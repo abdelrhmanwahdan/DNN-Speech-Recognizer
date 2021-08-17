@@ -17,5 +17,5 @@ This project requires GPU acceleration to run efficiently.
     5. Model 4: Bidirectional RNN + TimeDistributed Dense
     6. Model 5: Custom
     7. model 6: final model
-5. visualizing and evaluating the models
+5. visualizing and evaluating the models.
 
