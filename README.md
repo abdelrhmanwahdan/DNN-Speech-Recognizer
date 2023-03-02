@@ -1,5 +1,5 @@
 # DNN Speech Recognizer
-![automatic speech recognition](home/images/ASR.jpg)
+![automatic speech recognition](images/ASR.jpg)
 
 Photo by <a href="https://unsplash.com/@omidarmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Omid Armin</a> on <a href="https://unsplash.com/s/photos/siri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
